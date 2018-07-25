@@ -1,0 +1,22 @@
+body {
+
+    background-image: url(../src/images/background2.jpg); 
+
+}
+
+.boxer{
+    margin-top:100px;
+    margin-left:auto;  
+    margin-right:auto; 
+    width:440px;
+}
+.btn{
+    margin-left:5px;
+    background-color: #6eb686;
+    text-emphasis-color: white;
+
+}
+.display-4{
+    text-align: center;
+    font-weight: bold;
+}
